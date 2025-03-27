@@ -4,6 +4,11 @@
 ## Overview
 This project is a Java-based application designed to manage and conduct multiple-choice quizzes. The system allows administrators to create and manage quizzes, while users (students) can take quizzes and view their results. The application is built using **Java Swing** for the graphical user interface (GUI) and **MySQL** as the database for storing data.
 
+### Screenshots from project
+<img src="https://github.com/user-attachments/assets/f69ba9c0-7a62-4450-9a32-d633b13a1642" width="600">
+
+<img src="https://github.com/user-attachments/assets/06d9ea2e-c125-4bb2-9d61-8aa57a505f94" width="600">
+
 ## Key Features
 - **Question Management**: Add, edit, delete, and categorize questions by topics.
 - **Quiz Management**: Create quizzes from a question bank and set time limits for each quiz.
@@ -36,7 +41,4 @@ This project is a Java-based application designed to manage and conduct multiple
 
 3. Ensure the required libraries are present in the `lib/` directory.
 
-## Screenshots from project
-<img src="https://github.com/user-attachments/assets/f69ba9c0-7a62-4450-9a32-d633b13a1642" width="600">
 
-<img src="https://github.com/user-attachments/assets/06d9ea2e-c125-4bb2-9d61-8aa57a505f94" width="600">
