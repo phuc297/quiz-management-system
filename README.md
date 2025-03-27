@@ -26,8 +26,8 @@ This project is a Java-based application designed to manage and conduct multiple
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone git@github.com:phuc297/quiz-management-system.git
+   cd quiz-management-system
    ```
 
 2. Set up the MySQL database:
